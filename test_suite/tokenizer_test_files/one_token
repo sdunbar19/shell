@@ -1,0 +1,11 @@
+grep arg1 arg2 < input.txt > output.txt
+true
+1
+
+true
+3
+input.txt
+output.txt
+grep
+arg1
+arg2

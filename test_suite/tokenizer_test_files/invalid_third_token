@@ -1,0 +1,3 @@
+grep arg1 arg2 < input.txt > output.txt | echo "cat" | echo "cat
+false
+0

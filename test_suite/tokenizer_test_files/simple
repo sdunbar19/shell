@@ -1,0 +1,19 @@
+grep arg1 arg2 < input.txt | grep "arg2|" arg3 > output.txt
+true
+2
+
+true
+3
+input.txt
+
+grep
+arg1
+arg2
+
+true
+3
+
+output.txt
+grep
+arg2|
+arg3
